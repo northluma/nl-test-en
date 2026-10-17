@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /nl-test-en/
+
+Sitemap: https://your-domain.example/nl-test-en/sitemap.xml
